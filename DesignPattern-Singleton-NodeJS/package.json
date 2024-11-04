@@ -1,0 +1,14 @@
+{
+  "name": "design-pattern-singleton-node-js",
+  "version": "0.0.0",
+  "description": "DesignPattern-Singleton-NodeJS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
